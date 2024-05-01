@@ -381,6 +381,21 @@ This project is collaborative at its core and we warmly welcome feedback and con
 
 > Cargnelutti, M., & Cushman, J. (2024). Open Legal AI Workbench (OLAW) (Version 0.0.1) [Computer software]
 
+Bibtex citation:
+```
+@misc{lil2024olaw,
+  author={Matteo Cargnelutti and Jack Cushman},
+  title={Open Legal AI Workbench (OLAW)},
+  version={0.0.1},
+  year={2024},
+  publisher={Library Innovation Lab},
+  journal={Github Repository},
+  howpublished={\url{https://github.com/harvard-lil/olaw}},
+  commit={6d582527a4ad914761a6587b25329a85c94b8428},
+}
+```
+
+
 See also: 
 - [Our citation file](https://github.com/harvard-lil/olaw/blob/main/CITATION.cff)
 - The _"Cite this repository"_ button in the About section of this repository. 
